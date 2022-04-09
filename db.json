@@ -1,0 +1,164 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Skell",
+            "email": "spenrose0@chronoengine.com",
+            "address": "9450 Everett Court",
+            "phone": "+351 612 871 6361",
+            "status": "Active"
+        },
+        {
+            "id": 2,
+            "name": "Caitrin",
+            "email": "ccastelot1@php.net",
+            "address": "31 Rusk Park",
+            "phone": "+55 231 333 6479",
+            "status": "Inactive"
+        },
+        {
+            "id": 3,
+            "name": "Pauletta",
+            "email": "pprickett2@merriam-webster.com",
+            "address": "344 Arrowood Circle",
+            "phone": "+55 787 548 2497",
+            "status": "Active"
+        },
+        {
+            "id": 4,
+            "name": "Weston",
+            "email": "wthompson3@facebook.com",
+            "address": "5 Brickson Park Court",
+            "phone": "+86 110 611 9365",
+            "status": "Inactive"
+        },
+        {
+            "id": 5,
+            "name": "Angel",
+            "email": "awiltshier4@mac.com",
+            "address": "5045 Havey Circle",
+            "phone": "+386 607 551 5671",
+            "status": "Active"
+        },
+        {
+            "id": 6,
+            "name": "Brendon",
+            "email": "bdavidove5@europa.eu",
+            "address": "6 Glendale Place",
+            "phone": "+47 592 765 7244",
+            "status": "Active"
+        },
+        {
+            "id": 7,
+            "name": "Caria",
+            "email": "cgregol6@howstuffworks.com",
+            "address": "6 Sunfield Circle",
+            "phone": "+58 454 332 9401",
+            "status": "Inactive"
+        },
+        {
+            "id": 8,
+            "name": "Sollie",
+            "email": "snickell7@ocn.ne.jp",
+            "address": "51673 Fordem Center",
+            "phone": "+351 640 386 7947",
+            "status": "Inactive"
+        },
+        {
+            "id": 9,
+            "name": "Jeramey",
+            "email": "jmill8@jimdo.com",
+            "address": "6121 Anzinger Circle",
+            "phone": "+66 867 549 5490",
+            "status": "Active"
+        },
+        {
+            "id": 10,
+            "name": "Gunilla",
+            "email": "gduchesne9@devhub.com",
+            "address": "81 3rd Alley",
+            "phone": "+53 384 541 0497",
+            "status": "Inactive"
+        },
+        {
+            "id": 11,
+            "name": "Berky",
+            "email": "bcowmeadowa@paypal.com",
+            "address": "261 Golf Course Point",
+            "phone": "+84 356 428 4214",
+            "status": "Active"
+        },
+        {
+            "id": 12,
+            "name": "Mallory",
+            "email": "mclevelyb@parallels.com",
+            "address": "0 Village Lane",
+            "phone": "+52 175 441 3212",
+            "status": "Inactive"
+        },
+        {
+            "id": 13,
+            "name": "Glenn",
+            "email": "ghastwellc@github.io",
+            "address": "9 Morningstar Circle",
+            "phone": "+62 120 668 2744",
+            "status": "Active"
+        },
+        {
+            "id": 14,
+            "name": "Danella",
+            "email": "dolliffed@homestead.com",
+            "address": "3 Kenwood Place",
+            "phone": "+62 524 390 9775",
+            "status": "Inactive"
+        },
+        {
+            "id": 15,
+            "name": "Langston",
+            "email": "lskipworthe@hatena.ne.jp",
+            "address": "39450 Kim Crossing",
+            "phone": "+86 524 878 9007",
+            "status": "Active"
+        },
+        {
+            "id": 16,
+            "name": "Garry",
+            "email": "gcouchmanf@blog.com",
+            "address": "6 Swallow Way",
+            "phone": "+970 213 335 8769",
+            "status": "Inactive"
+        },
+        {
+            "id": 17,
+            "name": "Ivory",
+            "email": "idulyg@about.com",
+            "address": "6 Eastlawn Court",
+            "phone": "+351 301 496 6478",
+            "status": "Active"
+        },
+        {
+            "id": 18,
+            "name": "Gusti",
+            "email": "gboiceh@gravatar.com",
+            "address": "81509 Atwood Terrace",
+            "phone": "+62 318 677 4738",
+            "status": "Inactive"
+        },
+        {
+            "id": 19,
+            "name": "Nolan",
+            "email": "npulleni@com.com",
+            "address": "2896 Lyons Lane",
+            "phone": "+84 671 221 7441",
+            "status": "Active"
+        },
+        {
+            "id": 20,
+            "name": "Mora",
+            "email": "mspurnierj@google.pl",
+            "address": "268 Stone Corner Court",
+            "phone": "+48 295 391 9228",
+            "status": "Inactive"
+        }
+    ]
+}
